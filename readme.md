@@ -13,5 +13,8 @@ tailwind v4
 daisyui v5
 react-icons
 
+・認証
+auth.js（旧next-auth）
+
 ・フォーマッタ
 biome
